@@ -1,4 +1,4 @@
-Certainly! Below is a professional README template for the provided Move code:
+
 
 ---
 
@@ -51,5 +51,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to adjust the contents as needed, adding more details or sections as necessary.
